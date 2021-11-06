@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-   "scripts": { "view:cov": "cd coverage/lcov-report && 3dMandelbrot/index.html" }
+   "scripts": { "view:cov": "cd coverage/lcov-report && index.html" }
   ,
   "author": "",
   "license": "ISC",
